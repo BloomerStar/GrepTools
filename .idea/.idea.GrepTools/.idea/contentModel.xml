@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\blm\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\blm\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_GrepTools.-1616858389.00" t="ExcludeRecursive" />
+    <e p="D:\work\C#\CSharpUtility\CSharpUtility\BaseSystem" t="IncludeRecursive">
+      <e p="BaseService.cs" t="Include" />
+      <e p="BaseSystem.csproj" t="IncludeRecursive" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ClassDiagram1.cd" t="Include" />
+      <e p="Configuration" t="Include">
+        <e p="AppConfig.cs" t="Include" />
+        <e p="HardWareConfig.cs" t="Include" />
+        <e p="SystemCodeManager.cs" t="Include" />
+      </e>
+      <e p="DeepCopyHelper.cs" t="Include" />
+      <e p="Event" t="Include">
+        <e p="IEvent.cs" t="Include" />
+      </e>
+      <e p="Image" t="Include">
+        <e p="BMPReader.cs" t="Include" />
+      </e>
+      <e p="Input" t="Include">
+        <e p="IInputController.cs" t="Include" />
+      </e>
+      <e p="Interface" t="Include">
+        <e p="ICollectionCapacityPolicy.cs" t="Include" />
+        <e p="ILogger.cs" t="Include" />
+        <e p="ILoggerServiceAccessor.cs" t="Include" />
+        <e p="ISystemErrorHandle.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Substitute" t="Include">
+        <e p="Disposable.cs" t="Include" />
+        <e p="DisposableObject.cs" t="Include" />
+      </e>
+    </e>
+    <e p="D:\work\C#\CSharpUtility\CSharpUtility\CSharpUtility" t="IncludeRecursive">
+      <e p="Base" t="Include">
+        <e p="BaseObject.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cipher" t="Include">
+        <e p="CipherService.cs" t="Include" />
+        <e p="CipherXOR.cs" t="Include" />
+      </e>
+      <e p="ClassDiagram1.cd" t="Include" />
+      <e p="CSharpUtility.csproj" t="IncludeRecursive" />
+      <e p="Dispatcher" t="Include">
+        <e p="BasicDispatcher.cs" t="Include" />
+        <e p="Text" t="Include">
+          <e p="CommandService.cs" t="Include" />
+          <e p="ICommandErrorPolicy.cs" t="Include" />
+          <e p="ICommandReciever.cs" t="Include" />
+          <e p="ICommandSender.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Factory" t="Include">
+        <e p="DynamicFactory.cs" t="Include" />
+        <e p="ICreatePolicy.cs" t="Include" />
+        <e p="IErrorPolicy.cs" t="Include" />
+        <e p="IInitializePolicy.cs" t="Include" />
+        <e p="StaticFactory.cs" t="Include" />
+      </e>
+      <e p="File" t="Include">
+        <e p="BinaryReader.cs" t="Include" />
+        <e p="BinaryWriter.cs" t="Include" />
+        <e p="DirectoryMonitor.cs" t="Include" />
+        <e p="IFileEventProcessPolicy.cs" t="Include" />
+        <e p="Resource" t="Include">
+          <e p="Resource.cs" t="Include" />
+          <e p="ResourceDefinition.cs" t="Include" />
+          <e p="ResourceLoader.cs" t="Include" />
+          <e p="ResourceReader.cs" t="Include" />
+          <e p="ResourceWriter.cs" t="Include" />
+        </e>
+        <e p="TextReader.cs" t="Include" />
+        <e p="TextSearcher.cs" t="Include" />
+        <e p="XmlParser.cs" t="Include" />
+      </e>
+      <e p="IdService.cs" t="Include" />
+      <e p="IIdStoragePolicy.cs" t="Include" />
+      <e p="Image" t="Include">
+        <e p="BMPReader.cs" t="Include" />
+      </e>
+      <e p="Model" t="Include">
+        <e p="IBaseModel.cs" t="Include" />
+        <e p="IChild.cs" t="Include" />
+        <e p="INodeController.cs" t="Include" />
+        <e p="IOutBoundedPolicy.cs" t="Include" />
+        <e p="IParent.cs" t="Include" />
+        <e p="ModelConstants.cs" t="Include" />
+        <e p="Node.cs" t="Include" />
+        <e p="XMLModel.cs" t="Include" />
+        <e p="XmlNode.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OpenTK.dll.config" t="Include" />
+      <e p="packages.config" t="Include" />
+      <e p="PostgreSQL" t="Include">
+        <e p="PgDBOAuthObject.cs" t="Include" />
+      </e>
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="SystemProvider" t="Include">
+        <e p="SystemCenter.cs" t="Include" />
+      </e>
+      <e p="TaskInfo.cs" t="Include" />
+      <e p="ThreadManager.cs" t="Include" />
+      <e p="Wachable.cs" t="Include" />
+      <e p="Windows" t="Include">
+        <e p="ExternalProcess.cs" t="Include" />
+        <e p="Simulation" t="Include">
+          <e p="InputSimulator.cs" t="Include" />
+          <e p="KeyboardHook.cs" t="Include" />
+          <e p="MouseHook.cs" t="Include" />
+          <e p="WindowHandler.cs" t="Include" />
+          <e p="WindowsVKCode.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="D:\work\C#\CSharpUtility\CSharpUtility\ErrorSystem" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Define.cs" t="Include" />
+      <e p="EpException.cs" t="Include" />
+      <e p="ErrorHandler.cs" t="Include" />
+      <e p="ErrorPackage.cs" t="Include" />
+      <e p="ErrorSystem.csproj" t="IncludeRecursive" />
+      <e p="ExceptionResolver.cs" t="Include" />
+      <e p="ICollectionCapacityPolicy.cs" t="Include" />
+      <e p="InnerError.cs" t="Include" />
+      <e p="ISystemErrorPolicy.cs" t="Include" />
+      <e p="NoError.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="ThrowError.cs" t="Include" />
+    </e>
+    <e p="D:\work\C#\CSharpUtility\CSharpUtility\InputSystem" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="IMouseHandler.cs" t="Include" />
+      <e p="Input.cs" t="Include" />
+      <e p="InputHandler.cs" t="Include" />
+      <e p="InputSystem.csproj" t="IncludeRecursive" />
+      <e p="KeyboardHandler.cs" t="Include" />
+      <e p="KeyCode.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="VirtualController.cs" t="Include" />
+    </e>
+    <e p="D:\work\C#\CSharpUtility\CSharpUtility\LogSystem" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Loggers.cs" t="Include" />
+      <e p="LoggerService.cs" t="Include" />
+      <e p="LogSystem.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+    <e p="D:\work\C#\WPF\GrepTools\GrepTools" t="IncludeFlat">
+      <e p="GrepTools" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.ja-JP.resx" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="GrepTools.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="GrepTools.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

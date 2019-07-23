@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ad9210c-c8f3-4ebf-b004-0790ac858808" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GrepTools/Form1.cs">
+          <provider editor-type-id="WinFormsEditor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <marker date="1563894736465" expanded="true" signature="6:213" ph="..." />
+                <marker date="1563894736465" expanded="true" signature="234:503" ph="{...}" />
+                <marker date="1563894736465" expanded="true" signature="274:501" ph="{...}" />
+                <marker date="1563894736465" expanded="true" signature="303:358" ph="{...}" />
+                <marker date="1563894736465" expanded="true" signature="419:495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../CSharpUtility/CSharpUtility/CSharpUtility/Model/Node.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <marker date="1555867238510" expanded="true" signature="65:3331" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="92:162" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="191:331" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="366:621" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="501:614" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="677:1600" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="868:938" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="970:1098" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1024:1088" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1144:1197" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1243:1593" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1355:1540" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1412:1526" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1671:2732" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="1924:2104" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2145:2261" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2306:2359" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2406:2557" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2586:2642" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2681:2726" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2786:3327" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="2926:3058" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="3097:3152" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="3181:3237" ph="{...}" />
+                <marker date="1555867238510" expanded="true" signature="3276:3321" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GrepTools/Form1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <marker date="1563894736428" expanded="true" signature="19:1460" ph="{...}" />
+                <marker date="1563894736428" expanded="true" signature="45:1458" ph="{...}" />
+                <marker date="1563894736428" expanded="true" signature="60:136" ph="/// Required designer variable. ... " />
+                <marker date="1563894736428" expanded="true" signature="214:405" ph="/// Clean up any resources being used. ... " />
+                <marker date="1563894736428" expanded="true" signature="461:636" ph="{...}" />
+                <marker date="1563894736428" expanded="true" signature="522:588" ph="{...}" />
+                <marker date="1563894736428" expanded="true" signature="646:1452" ph="Windows Form Designer generated code" />
+                <marker date="1563894736428" expanded="true" signature="700:863" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1563894736428" expanded="true" signature="906:1432" ph="{...}" />
+                <marker date="1563894736428" expanded="true" signature="1117:1157" ph="/* Form1 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../CSharpUtility/CSharpUtility/CSharpUtility/Model/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GrepTools/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GrepTools/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GrepTools/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/GrepTools/Form1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CSharpUtility" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GrepTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Form1.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CSharpUtility/CSharpUtility/InputSystem/InputSystem.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad9210c-c8f3-4ebf-b004-0790ac858808" name="Default Changelist" comment="" />
+      <created>1563892529833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563892529833</updated>
+      <workItem from="1563892531258" duration="2198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2198000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1326585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="NuGet" order="0" weight="0.32977587" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" weight="0.32977587" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.32977587" />
+      <window_info active="true" anchor="right" id="Designer Toolbox" sideWeight="0.50318474" side_tool="true" visible="true" weight="0.32978156" />
+      <window_info anchor="right" id="Errors In Solution" sideWeight="0.49203822" weight="0.32978156" />
+      <window_info anchor="right" id="Database" sideWeight="0.4968153" visible="true" weight="0.32978156" />
+      <window_info anchor="right" id="Unit Tests Coverage" sideWeight="0.4936306" weight="0.32978156" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../CSharpUtility/CSharpUtility/CSharpUtility/Model/Node.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <marker date="1555867238510" expanded="true" signature="65:3331" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="92:162" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="191:331" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="366:621" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="501:614" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="677:1600" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="868:938" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="970:1098" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1024:1088" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1144:1197" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1243:1593" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1355:1540" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1412:1526" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1671:2732" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="1924:2104" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2145:2261" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2306:2359" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2406:2557" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2586:2642" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2681:2726" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2786:3327" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="2926:3058" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="3097:3152" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="3181:3237" ph="{...}" />
+            <marker date="1555867238510" expanded="true" signature="3276:3321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrepTools/Form1.cs">
+      <provider editor-type-id="WinFormsEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <marker date="1563894736465" expanded="true" signature="6:213" ph="..." />
+            <marker date="1563894736465" expanded="true" signature="234:503" ph="{...}" />
+            <marker date="1563894736465" expanded="true" signature="274:501" ph="{...}" />
+            <marker date="1563894736465" expanded="true" signature="303:358" ph="{...}" />
+            <marker date="1563894736465" expanded="true" signature="419:495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrepTools/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <marker date="1563894736428" expanded="true" signature="19:1460" ph="{...}" />
+            <marker date="1563894736428" expanded="true" signature="45:1458" ph="{...}" />
+            <marker date="1563894736428" expanded="true" signature="60:136" ph="/// Required designer variable. ... " />
+            <marker date="1563894736428" expanded="true" signature="214:405" ph="/// Clean up any resources being used. ... " />
+            <marker date="1563894736428" expanded="true" signature="461:636" ph="{...}" />
+            <marker date="1563894736428" expanded="true" signature="522:588" ph="{...}" />
+            <marker date="1563894736428" expanded="true" signature="646:1452" ph="Windows Form Designer generated code" />
+            <marker date="1563894736428" expanded="true" signature="700:863" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1563894736428" expanded="true" signature="906:1432" ph="{...}" />
+            <marker date="1563894736428" expanded="true" signature="1117:1157" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

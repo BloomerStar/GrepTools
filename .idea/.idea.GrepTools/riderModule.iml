@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../../../CSharpUtility/CSharpUtility/BaseSystem" />
+    <content url="file://$MODULE_DIR$/../../../../../CSharpUtility/CSharpUtility/CSharpUtility" />
+    <content url="file://$MODULE_DIR$/../../../../../CSharpUtility/CSharpUtility/ErrorSystem" />
+    <content url="file://$MODULE_DIR$/../../../../../CSharpUtility/CSharpUtility/InputSystem" />
+    <content url="file://$MODULE_DIR$/../../../../../CSharpUtility/CSharpUtility/LogSystem" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
